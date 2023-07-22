@@ -10,7 +10,8 @@ Full Stack Developer & Cyber Security<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CevatEkici&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![]<a href="https://visitcount.itsvg.in">
+[![](https://visitcount.itsvg.in/api?id=CevatEkici&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=CevatEkici&label=Profile%20Views&pretty=false" />
 </a>
 
